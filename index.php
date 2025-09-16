@@ -10,7 +10,9 @@
     <header>
         <div class="header-content">
             <div class="logo">
-                <div class="logo-icon"></div>
+                <div class="logo-icon">
+                     <img src="logo.png" alt="Miss Caffè Logo">
+                </div>
                 <div class="logo-text">
                     <h1>Miss Caffè</h1>
                     <p>Ogni sorso un sorriso</p>
@@ -48,7 +50,7 @@
             <section id="home" class="hero">
                 <h2>Benvenuti al Miss Caffè</h2>
                 <p>Dove ogni momento diventa speciale con il nostro caffè d'eccellenza</p>
-                <div style="font-size: 4rem; margin: 2rem 0;">☕✨</div>
+                
             </section>
 
             <section id="menu" class="menu-section">
